@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    ".githooks": true,
+    ".vscode": true,
+    "ios": true,
+    "android": true,
+    "www": true
+  }
+}

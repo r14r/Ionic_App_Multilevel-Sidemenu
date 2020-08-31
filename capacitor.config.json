@@ -1,0 +1,7 @@
+{
+    "appId": "com.example.app",
+    "appName": "app-multilevel-sidemenu",
+    "bundledWebRuntime": false,
+    "npmClient": "yarn",
+    "webDir": "www"
+}
